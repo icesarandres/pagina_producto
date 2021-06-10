@@ -432,6 +432,14 @@ li{
       color: #fff;
       text-decoration: none;
     }
-    
+    .contenedor{
+        width: 100%;
+        height: 2000px;
+        
+    }
+
+    #video{
+        width: 100%;
+    }
     
   }
